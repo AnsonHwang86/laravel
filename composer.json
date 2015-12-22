@@ -1,0 +1,14 @@
+{
+    "name": "ansonhwang/laravel",
+    "description": "laravel demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AnsonHwang86",
+            "email": "315679965@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
